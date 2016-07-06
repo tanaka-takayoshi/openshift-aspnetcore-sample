@@ -1,3 +1,2 @@
 #!/bin/bash -e
-exec dotnet restore
 exec dotnet run
